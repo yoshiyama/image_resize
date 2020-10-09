@@ -1,7 +1,7 @@
 # image_resize
-The program can resize all images in a directory. 
-Python 3.6.8
-conda list
+The program can resize all images in a directory.  
+Python 3.6.8  
+conda list  
 # packages in environment at C:\tools\Anaconda3\envs\py36+jup:
 #
 # Name                    Version                   Build  Channel
