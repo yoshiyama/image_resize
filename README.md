@@ -1,2 +1,2 @@
 # image_resize
-The program is to resize all images in a directory. 
+The program can resize all images in a directory. 
